@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css2?family=Righteous&family=Sarala:wght@700&display=swap);
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body{
+    font-size: 100%;
+    background: linear-gradient(90deg, #5f0000 15%, #ff0000 80%);
+}
+
+.cabeçalho{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 24px;
+}
+
+.cabeçalho-imagem{
+    height: 40px;
+}
+
+.cabeçalho-menu{
+    display: flex;
+    gap: 32px;
+}
