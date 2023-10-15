@@ -41,8 +41,39 @@
         </thead>
     <tbody align="left">
         <tr>
-            <td></td>
+            <td>01</td>
+            <td> 
+                <a href="https://github.com/HakuAkai/HTML5-CSS3/tree/80863120da7ce5a5bf75e00a05dbed489478cf40/ex01-ex05">ex01 - ex05</a>
+            </td>
             <td>
+                <img alt="Static Badge" src="https://img.shields.io/badge/senai-red?style=for-the-badge&color=orange">
+            </td>
+        </tr>
+        <tr>
+            <td>02</td>
+            <td>
+                <a href="https://github.com/HakuAkai/HTML5-CSS3/tree/db862cb2bc81a357ad4c74439df73725c203984f/ex06-ex10">ex06 - ex10</a>
+            </td>
+            <td>
+                <img alt="Static Badge" src="https://img.shields.io/badge/senai-red?style=for-the-badge&color=orange">
+            </td>
+        </tr>
+        <tr>
+            <td>03</td>
+            <td>
+                <a href="https://github.com/HakuAkai/HTML5-CSS3/tree/e80f53e2068e4b1d3d1d80f83b485a173c14713d/ex11-ex14">ex11 - ex14</a>
+            </td>
+            <td>
+                <img alt="Static Badge" src="https://img.shields.io/badge/senai-red?style=for-the-badge&color=orange">
+            </td>
+        </tr>
+        <tr>
+            <td>04</td>
+            <td>
+                <a href="https://github.com/HakuAkai/HTML5-CSS3/tree/e12001d8c0a407e7455908906b5e3d69aab25fae/Projeto-Senai">Projeto Senai</a>
+            </td>
+            <td>
+                <img alt="Static Badge" src="https://img.shields.io/badge/senai-red?style=for-the-badge&color=orange">
             </td>
         </tr>
     </tbody>
@@ -69,8 +100,39 @@
         </thead>
     <tbody align="left">
         <tr>
-            <td></td>
+            <td>01</td>
+            <td> 
+                <a href="https://github.com/HakuAkai/HTML5-CSS3/tree/80863120da7ce5a5bf75e00a05dbed489478cf40/ex01-ex05">ex01 - ex05</a>
+            </td>
             <td>
+                <img alt="Static Badge" src="https://img.shields.io/badge/senai-red?style=for-the-badge&color=orange">
+            </td>
+        </tr>
+        <tr>
+            <td>02</td>
+            <td>
+                <a href="https://github.com/HakuAkai/HTML5-CSS3/tree/db862cb2bc81a357ad4c74439df73725c203984f/ex06-ex10">ex06 - ex10</a>
+            </td>
+            <td>
+                <img alt="Static Badge" src="https://img.shields.io/badge/senai-red?style=for-the-badge&color=orange">
+            </td>
+        </tr>
+        <tr>
+            <td>03</td>
+            <td>
+                <a href="https://github.com/HakuAkai/HTML5-CSS3/tree/e80f53e2068e4b1d3d1d80f83b485a173c14713d/ex11-ex14">ex11 - ex14</a>
+            </td>
+            <td>
+                <img alt="Static Badge" src="https://img.shields.io/badge/senai-red?style=for-the-badge&color=orange">
+            </td>
+        </tr>
+        <tr>
+            <td>04</td>
+            <td>
+                <a href="https://github.com/HakuAkai/HTML5-CSS3/tree/e12001d8c0a407e7455908906b5e3d69aab25fae/Projeto-Senai">Senai Project</a>
+            </td>
+            <td>
+                <img alt="Static Badge" src="https://img.shields.io/badge/senai-red?style=for-the-badge&color=orange">
             </td>
         </tr>
     </tbody>
