@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lading Page</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/layout-tablet.css" media="screen and (max-width: 1200px)">
+    <link rel="stylesheet" href="css/layout-smartphone.css" media="screen and (max-width: 768px)">
+    <script src="https://kit.fontawesome.com/22b70d1759.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <header>
+        <div class="container-grid conteudo-header">
+            <img src="img/imagens/logos_senai_branco.png" alt="logo senai" class="logo">
+            <nav id="menu-header" class="menu-header">
+                <a href="#" title="Inicio da Página">Inicio</a>
+                <a href="#mouse">Sobre</a>
+                <a href="#endereco">Endereço</a>
+                <a href="malito:exemplo@email.com" class="botao">Contate-nos</a>
+            </nav>
+            <a href="javascript: void(0)" onclick="mostrarMenu()" class="menu-barras">
+            <i class="fas fa-bars" id="icone-menu"></i>
+            </a>
+        </div>
+    </header>
+    <main>
+        <div class="banner">
+            <div class="container-grid conteudo-banner">
+            <div class="texto-banner">
+                <h1>cursos técnicos senai</h1>
+                <div class="linha-amarela"></div>
+                <span class="titulo-senai">SENAI INFORMÁTICA</span>
+                <img src="img/imagens/mouse-down.png" alt="imagem de um mouse" class="mouse" id="mouse">
+            </div>
+            </div>
+        </div>
+        <section class="sobre-projetos">
+            <div class="container-grid">
+                <h2>Sobre os Projetos</h2>
+                <div class="conteudo-sobre">
+                    <img src="img/imagens/imagem-seção-sobre.jpg" alt="Homem explicando conteúd dos cursos para vários alunos" class="imagem-sobre">
+                    <div class="texto-sobre">
+                        <span class="texto-participantes">participantes</span>
+                        <h3>Mais de 80 alunos organizados em 16 grupos</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In nam ullam vitae optio doloremque asperiores quisquam, harum possimus ut. Dignissimos, similique maxime. Recusandae quia cumque ex ab accusamus. Beatae, minus! Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, impedit quae? Voluptate, sint sequi iure magni, ab excepturi fugiat corporis porro eum aliquid perspiciatis optio assumenda, delectus voluptates nemo consectetur?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus veniam dolorem possimus soluta sequi, id voluptatibus eligendi quia voluptas voluptate amet nam expedita fuga, qui sed dignissimos, nihil eum dolorum!Lorem Lorem ipsum dolor sit amet consectetur, adipisicing elit. In, minima quod cum odio repudiandae dolor non maxime quibusdam eos doloribus itaque. Enim aliquam voluptates hic libero a non iusto pariatur.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="info">
+            <div class="container-grid conteudo-info">
+                <div class="card-info">
+                    <h3>Local</h3>
+                    <p>São Paulo</p>   
+                </div>
+                <div class="card-info">
+                    <h3>Duração</h3>
+                    <p>90 dias</p>
+                </div>
+                <div class="card-info">
+                    <h3>Desafios</h3>
+                    <p>+30 Desafios</p>
+                </div>
+            </div>
+        </section>
+        <section class="endereco" id="endereco">
+            <div class="container-grid conteudo-endereco">
+                <h2>Endereço</h2>
+                <div class="texto-endereco">
+                    <p>R. Inácio García, 321 - Cidade Edson, Suzano - SP, 08665-120</p>
+                </div>
+                <a href="https://goo.gl/maps/7NXVwwqGZRSr79jy8" class="mapa" alt="Mapa mostrando a localização da escola"> <iframe class='mapa' src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.3243967049434!2d-46.31585258449934!3d-23.556789984685125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce709cdd72cb8d%3A0xa0c48f485457b882!2sEscola%20SENAI%20%22Luis%20Eulalio%20de%20Bueno%20Vidigal%20Filho%22!5e0!3m2!1spt-BR!2sbr!4v1668041556799!5m2!1spt-BR!2sbr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </a>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <span>Copyright &copy ; 2021 - Escola Senai de Informática</span>
+    </footer>
+    <script>
+        function mostrarMenu(){
+            var menu=document.getElementById("menu-header")
+            var icone=document.getElementById("icone-menu")
+            if(getComputedStyle(menu).display =='none'){
+                menu.style.display="flex"
+                icone.classList.remove("fa-bars")
+                icone.classList.add("fa-times")
+                //mudar para times
+            }else{
+                menu.style.display="none"
+                icone.classList.remove("fa-times")
+                icone.classList.add("fa-bars")
+                //mudar para bars
+            }
+        }
+    </script>
+</body>
+</html>
