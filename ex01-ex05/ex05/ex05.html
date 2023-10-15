@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Muuuh</title>
+</head>
+<body>
+    <h1>Hyperlinks, âncoras e downloads.</h1>
+    <div id="externo">
+        <h2>Acessos externos:</h2>
+            <p>Você pode usar
+                <a href="https://pokemondb.net/sprites" target="_blank" title="Sprites de Pokémon" rel="external">Sprites de Pokémon</a>
+            para ver as variações do desing de cada genereção de pokémon:</p><br><!-- Blank = abre outra guia, rel = link relativo a um site externo -->
+            <a href="https://pokemondb.net/sprites/lapras" target="_blank" title="Lapras sprite">
+                <img src="../img/lapras.gif" alt="">
+            </a>
+            <a href="https://pokemondb.net/pokedex/lapras">
+                <img src="https://img.pokemondb.net/sprites/black-white/anim/back-normal/lapras.gif" alt="Lapras">
+            </a><br><br>
+            <a href="https://pokemondb.net/pokedex/lapras" target="_blank"><button>Pokédex do site</button></a><br><br>
+            <form action="https://pokemondb.net" method="get">
+                <button type="submit">Site</button>
+                        <!-- <input type="submit" value="Site"> -->
+            </form>
+    </div>
+    <div id="interno">
+        <h2>Âncoras internas:</h2>
+            <p>Ir para a pokédex local:</p>
+            <a href="ex05-2.html" title="pokédex" rel="author"><button>Pokédex</button></a>
+    </div>
+</body>
+</html>

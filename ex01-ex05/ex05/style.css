@@ -1,0 +1,23 @@
+
+h1{
+    color: #75AAF5;
+}
+h2{
+    color: #99C1F5;
+    font-family: 'Courier New', Courier, monospace;
+}
+form>button,input{
+    background-color: #99C1F5;
+}
+#conteudo{
+    display: flex;
+    justify-content: space-evenly;
+}
+#main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#down{
+    margin: auto;
+}
