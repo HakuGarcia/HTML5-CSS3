@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=orange"/>
     <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=blue"/>
     <br>
-    <a href="https://www.dio.me/users/juhh1956">
+    <a href="https://www.linkedin.com/in/hakuakai/">
         <img alt="Static Badge" src="https://img.shields.io/badge/my%20profile-red?style=for-the-badge&color=blue">
     </a>
     <a href="https://www.novotec.sp.gov.br/CursosProfissionalizantes/Detalhes?URI=CriacaodeSitescomMarketingDigitalExp">
