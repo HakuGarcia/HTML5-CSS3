@@ -5,10 +5,10 @@
 
 <div align="center">
     <p> 
-        Repositório de estudos para o curso <strong> Front-end e Marketing Digital </strong> e <strong> Curso HTML5 e CSS3 </strong> <br> (o link para o curso se encontra nos botões "senai" e "curso em video") 
+        Repositório de estudos para o curso <strong> Front-end e Marketing Digital </strong> e a formação <strong> HTML e CSS para projetos web </strong>. <br> (o link para o curso se encontra nos botões "senai" e "alura") 
     </p>
     <p> 
-        Study repository for course <strong> Front-end e Marketing Digital </strong> and <strong> Curso HTML5 e CSS3 </strong> <br> (the link tp the course is on the button "senai" and "curso em video") 
+        Study repository for course <strong> Front-end and Marketing Digital </strong> and <strong> HTML and CSS to web project </strong> <br> (the link tp the course is on the button "senai" and "alura") 
     </p>
     <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=orange"/>
     <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=blue"/>
@@ -19,8 +19,8 @@
     <a href="https://www.novotec.sp.gov.br/CursosProfissionalizantes/Detalhes?URI=CriacaodeSitescomMarketingDigitalExp">
         <img alt="Static Badge" src="https://img.shields.io/badge/senai-red?style=for-the-badge&color=orange">
     </a>
-    <a href="https://www.cursoemvideo.com/curso/html5-css3-modulo1/">
-        <img alt="Static Badge" src="https://img.shields.io/badge/curso%20em%20video-red?style=for-the-badge&color=blue">
+    <a href="https://cursos.alura.com.br/formacao-html-css">
+        <img alt="Static Badge" src="https://img.shields.io/badge/alura-red?style=for-the-badge&color=blue">
     </a> <br> <br>
 </div>
 
