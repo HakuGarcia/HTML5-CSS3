@@ -81,7 +81,6 @@
             <tr align="left">
                 <th>N°</th>
                 <th>activities</th>
-                <th>Course</th>
             </tr>
         </thead>
     <tbody align="left">
