@@ -5,20 +5,27 @@
 
 <div align="center">
     <p> 
-        Repositório de estudos para o curso <strong> Front-end e Marketing Digital.</strong><br> (o link para o curso se encontra no botão "senai") 
+        Repositório de estudos para os cursos <strong>Front-end e Marketing Digital</strong>, <strong>Formação HTML Web Developer</strong> e <strong>Formação CSS Web Developer.</strong><br> (o link para os cursos se encontram nos botões abaixo:) 
     </p>
     <p> 
-        Study repository for course <strong> Front-end and Marketing Digital. </strong><br> (the link tp the course is on the button "senai") 
+        Study repository for the courses <strong>Front-end and Digital Marketing</strong>, <strong>Degree HTML Web Developer</strong> and <strong>Degree CSS Web Developer</strong> <br> (the link tp the course is on the button "senai") 
     </p>
     <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=orange"/>
     <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=blue"/>
     <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=yellow"/>
     <br>
     <a href="https://www.linkedin.com/in/hakuakai/">
-        <img alt="Static Badge" src="https://img.shields.io/badge/my%20profile-red?style=for-the-badge&color=blue">
+        <img alt="Static Badge" src="https://img.shields.io/badge/me-red?style=for-the-badge&color=black&logo=linkedin">
     </a>
+    <br>
     <a href="https://www.novotec.sp.gov.br/CursosProfissionalizantes/Detalhes?URI=CriacaodeSitescomMarketingDigitalExp">
-        <img alt="Static Badge" src="https://img.shields.io/badge/senai-red?style=for-the-badge&color=orange">
+        <img alt="Static Badge" src="https://img.shields.io/badge/senai-red?style=for-the-badge&color=blue">
+    </a>
+    <a href="https://web.dio.me/track/formacao-html-web-developer">
+        <img alt="Static Badge" src="https://img.shields.io/badge/html_dio-red?style=for-the-badge&color=orange">
+    </a>
+    <a href="https://web.dio.me/track/formacao-css-web-developer">
+        <img alt="Static Badge" src="https://img.shields.io/badge/css_dio-red?style=for-the-badge&color=blue">
     </a>
     <br> <br>
 </div>
@@ -35,6 +42,7 @@
             <tr align="left">
                 <th>N°</th>
                 <th>Atividades</th>
+                <th>Curso</th>
             </tr>
         </thead>
     <tbody align="left">
@@ -43,11 +51,17 @@
             <td> 
                 <a href="https://github.com/HakuAkai/HTML5-CSS3/tree/80863120da7ce5a5bf75e00a05dbed489478cf40/ex01-ex05">ex01 - ex05</a>
             </td>
+            <td>
+                <img alt="Static Badge" src="https://img.shields.io/badge/senai-red?style=for-the-badge&color=blue">
+            </td>
         </tr>
         <tr>
             <td>02</td>
             <td>
                 <a href="https://github.com/HakuAkai/HTML5-CSS3/tree/db862cb2bc81a357ad4c74439df73725c203984f/ex06-ex10">ex06 - ex10</a>
+            </td>
+            <td>
+                <img alt="Static Badge" src="https://img.shields.io/badge/senai-red?style=for-the-badge&color=blue">
             </td>
         </tr>
         <tr>
@@ -55,11 +69,17 @@
             <td>
                 <a href="https://github.com/HakuAkai/HTML5-CSS3/tree/e80f53e2068e4b1d3d1d80f83b485a173c14713d/ex11-ex14">ex11 - ex14</a>
             </td>
+            <td>
+                <img alt="Static Badge" src="https://img.shields.io/badge/senai-red?style=for-the-badge&color=blue">
+            </td>
         </tr>
         <tr>
             <td>04</td>
             <td>
                 <a href="https://github.com/HakuAkai/HTML5-CSS3/tree/e12001d8c0a407e7455908906b5e3d69aab25fae/Projeto-Senai">Projeto Senai</a>
+            </td>
+            <td>
+                <img alt="Static Badge" src="https://img.shields.io/badge/senai-red?style=for-the-badge&color=blue">
             </td>
         </tr>
     </tbody>
@@ -81,6 +101,7 @@
             <tr align="left">
                 <th>N°</th>
                 <th>activities</th>
+                <th>Course</th>
             </tr>
         </thead>
     <tbody align="left">
@@ -89,11 +110,17 @@
             <td> 
                 <a href="https://github.com/HakuAkai/HTML5-CSS3/tree/80863120da7ce5a5bf75e00a05dbed489478cf40/ex01-ex05">ex01 - ex05</a>
             </td>
+            <td>
+                <img alt="Static Badge" src="https://img.shields.io/badge/senai-red?style=for-the-badge&color=blue">
+            </td>
         </tr>
         <tr>
             <td>02</td>
             <td>
                 <a href="https://github.com/HakuAkai/HTML5-CSS3/tree/db862cb2bc81a357ad4c74439df73725c203984f/ex06-ex10">ex06 - ex10</a>
+            </td>
+            <td>
+                <img alt="Static Badge" src="https://img.shields.io/badge/senai-red?style=for-the-badge&color=blue">
             </td>
         </tr>
         <tr>
@@ -101,11 +128,17 @@
             <td>
                 <a href="https://github.com/HakuAkai/HTML5-CSS3/tree/e80f53e2068e4b1d3d1d80f83b485a173c14713d/ex11-ex14">ex11 - ex14</a>
             </td>
+            <td>
+                <img alt="Static Badge" src="https://img.shields.io/badge/senai-red?style=for-the-badge&color=blue">
+            </td>
         </tr>
         <tr>
             <td>04</td>
             <td>
                 <a href="https://github.com/HakuAkai/HTML5-CSS3/tree/e12001d8c0a407e7455908906b5e3d69aab25fae/Projeto-Senai">Senai Project</a>
+            </td>
+            <td>
+                <img alt="Static Badge" src="https://img.shields.io/badge/senai-red?style=for-the-badge&color=blue">
             </td>
         </tr>
     </tbody>
